@@ -137,7 +137,9 @@ description: 'Gather the week, fill my review template, surface the
 ---
 
 The procedure, the quality bar, and a link to one good past output.
-``` Mine include a daily sync, a weekly review, and a publish pipeline. The bar I enforce: a loop becomes a skill only after it has run successfully twice by hand with documented results, because a skill written first is a guess with a slash command in front of it. Encode the judgment, not the click-path: acceptance criteria and a link to one example of good output survive every tool change, and button sequences do not.
+```
+
+Mine include a daily sync, a weekly review, and a publish pipeline. The bar I enforce: a loop becomes a skill only after it has run successfully twice by hand with documented results, because a skill written first is a guess with a slash command in front of it. Encode the judgment, not the click-path: acceptance criteria and a link to one example of good output survive every tool change, and button sequences do not.
 
 ### Stage 4: install guardrails as code
 
